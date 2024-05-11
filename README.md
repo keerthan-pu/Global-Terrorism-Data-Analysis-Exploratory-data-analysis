@@ -13,20 +13,20 @@ Dataset Link : https://drive.google.com/file/d/13GvlADbVCBeU9RP6NZVgLM-gW81KLbdk
 
 3.NumPy for computationally efficient operations
 
-# Task 
+# Tasks performed 
 -Data loading and cleanup
 
 -Data Exploration techniques and logic.
 
 -Logic of handling missing values, and outliers.
 
--Visualization logic.
+-Visualization techniques.
 
--How to form insights and understandings.
+-To get key insights and understandings.
 
 -Conclusion of the project.
 
-# Key insights from data analysis:
+# Key insights from data analysis
 
 -Iraq ,Pakistan ,Afghanistan ,India ,Philippines are the most affected countries.
 
