@@ -26,4 +26,30 @@ Dataset Link : https://drive.google.com/file/d/13GvlADbVCBeU9RP6NZVgLM-gW81KLbdk
 
 -Conclusion of the project.
 
+# Key insights from data analysis:
+
+-Iraq ,Pakistan ,Afghanistan ,India ,Philippines are the most affected countries.
+
+-Middle and East Africa region has highest number of attacks (50474)
+
+-Explosives are the most weapon used by terrorsits (92426).
+
+-Private citizens and Property were the main targets in terrorism activity (43510)
+
+-Baghdad, , Mosul , Karachi ,Mogadishu , Benghazi are the most affected Cities in the world.
+
+-2016 is the year where most attacks took placed in India followed by 2017,2015,2014,2013. Till 1978 no attack were recorded.
+
+-North of India(jammu and Kashmir) is the region where most attacks were happened followed by East region, south-east region and north-east region .
+
+-India had experienced 7542 attacks between 1970 and 2017.
+
+-CPI-Maoist, Maoists and Sikh extremists are the group which conducted most of the attacks in India CPI-Maoist had conducted 1800 and Maoists had 1400 attacks in India.
+
+-1152 were killed and 917 were wounded in 1992 due to Terrorism in India
+
+-In year 2016, more than 75% of terrorist attacks happened within just 10 countries : Iraq, Afghanistan, India, Somalia, Turky, Yemen, Nigeria, Syria, Philippines and Pakistan. Rest of the world combined had less than 25% of total global terrorist attacks.
+
+-The country Afganistan Govt was fell down and the entire country is ruled by terrorist group Talibans from August,2021.
+
 
