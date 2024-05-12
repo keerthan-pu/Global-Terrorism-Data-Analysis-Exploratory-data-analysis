@@ -12,6 +12,9 @@ Dataset Link : https://drive.google.com/file/d/13GvlADbVCBeU9RP6NZVgLM-gW81KLbdk
 2.Matplotlib and Seaborn for visualisation and behaviour with respect to the target variable.
 
 3.NumPy for computationally efficient operations
+# Project Architecture
+![image](https://github.com/keerthan-pu/Global-Terrorism-Data-Analysis-Exploratory-data-analysis/assets/114256472/5a9d42c2-5c10-4dc5-8fb2-3ef9d34eb6db)
+
 
 # Tasks performed 
 -Data loading and cleanup
